@@ -1,0 +1,7 @@
+C:\Users\dimap\source\repos\TARRPV19\TARRPV19\obj\Debug\TARRPV19.csprojAssemblyReference.cache
+C:\Users\dimap\source\repos\TARRPV19\TARRPV19\obj\Debug\TARRPV19.csproj.CoreCompileInputs.cache
+C:\Users\dimap\source\repos\TARRPV19\TARRPV19\bin\Debug\TARRPV19.exe.config
+C:\Users\dimap\source\repos\TARRPV19\TARRPV19\bin\Debug\TARRPV19.exe
+C:\Users\dimap\source\repos\TARRPV19\TARRPV19\bin\Debug\TARRPV19.pdb
+C:\Users\dimap\source\repos\TARRPV19\TARRPV19\obj\Debug\TARRPV19.exe
+C:\Users\dimap\source\repos\TARRPV19\TARRPV19\obj\Debug\TARRPV19.pdb
